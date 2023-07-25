@@ -29,3 +29,23 @@
     height: 340px;
     width: 340px;
   }
+.img_wew{
+    border: 1px solid #ddd;
+    width: 300px;
+    height: 226px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .img_wew img{
+    width: 100%;
+    cursor: pointer;
+    transition-duration: 0.3s;
+  }
+  .img_wew:hover img{
+    opacity: 0.6;
+    transition-duration: 0.3s;
+  }
+  .img_wew{
+    height: 340px;
+    width: 340px;
+  }
